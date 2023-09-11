@@ -1,5 +1,7 @@
 # Change Case
 
+add stuff
+
 [![Build status](https://img.shields.io/travis/blakeembrey/change-case.svg?style=flat)](https://travis-ci.com/blakeembrey/change-case)
 
 > Transform a string between `camelCase`, `PascalCase`, `Capital Case`, `snake_case`, `param-case`, `CONSTANT_CASE` and others.
